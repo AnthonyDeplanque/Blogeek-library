@@ -12,3 +12,4 @@ export const generateId = (): string => {
     return result;
 }
 
+module.exports = generateId;

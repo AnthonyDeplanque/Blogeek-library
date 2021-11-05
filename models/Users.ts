@@ -13,7 +13,7 @@ export interface Users {
   inscription_time: number;
   avatar?: string;
   biography?: string;
-  role?: ROLE[];
+  roles?: ROLE[];
   articles?: Articles[];
   articles_reactions?: ArticleReactions[];
   comments?: Comments[];
