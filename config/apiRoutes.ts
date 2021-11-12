@@ -1,8 +1,8 @@
-const USERS_ROUTE = '/users';
-const CATEGORIES_ROUTE = '/categories';
-const SUBCATEGORIES_ROUTE = '/subcategories';
-const ARTICLES_ROUTE = '/articles';
-const CATEGORIES_FOR_ARTICLE_ROUTE = '/catarticle';
+export const USERS_ROUTE = '/users';
+export const CATEGORIES_ROUTE = '/categories';
+export const SUBCATEGORIES_ROUTE = '/subcategories';
+export const ARTICLES_ROUTE = '/articles';
+export const CATEGORIES_FOR_ARTICLE_ROUTE = '/catarticle';
 
 export const FILE_STORAGE_ROUTE = '/file-storage';
 export const BASE_API_ROUTE = '/api';
